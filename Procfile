@@ -1,1 +1,1 @@
-web: gunicorn agroprimer.wsgi --log-file -
+web: gunicorn chat.wsgi --log-file -
