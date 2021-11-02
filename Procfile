@@ -1,0 +1,1 @@
+web: gunicorn agroprimer.wsgi --log-file -
